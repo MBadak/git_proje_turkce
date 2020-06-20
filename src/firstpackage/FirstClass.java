@@ -8,6 +8,9 @@ public class FirstClass {
 	
 		System.out.println("ikin ci kez cakisma yapmak istiyoruz");
 		
+
+		
+
 		System.out.println("islem tamam");
 		System.out.println("first commit from remote repository");
 		
